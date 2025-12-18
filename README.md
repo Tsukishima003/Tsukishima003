@@ -71,10 +71,8 @@ I'm passionate about building scalable machine learning systems that solve real-
 
 ## 🤝 Let's Connect
 
-📧 **Email**: [Your Email]
-💼 **LinkedIn**: [Your LinkedIn URL]
+📧 **Email**: himanshuambagade473@gmail.com
 🐙 **GitHub**: [@Tsukishima003](https://github.com/Tsukishima003)
-🌐 **Portfolio**: [Your Portfolio/Website]
 
 ---
 
