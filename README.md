@@ -45,12 +45,6 @@ I'm passionate about building scalable machine learning systems that solve real-
 - Serving 500+ daily queries in production
 - Stack: LangChain, OpenAI API, Pinecone/Weaviate, Python
 
-### **Full-Stack E-Commerce Platform** 🛒
-- Complete infrastructure on AWS (EC2, RDS, Amplify)
-- ShipRocket logistics integration with real-time tracking
-- Gmail OAuth implementation for email automation
-- Docker containerization with CI/CD pipelines
-
 ### **AI-Powered Workflow Automation** ⚙️
 - n8n-based automation workflows
 - Email classification and triage systems
