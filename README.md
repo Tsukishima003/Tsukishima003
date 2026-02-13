@@ -2,8 +2,7 @@
 
 **3rd Year Data Science Student | AI/ML Engineer | Building Production AI Systems**
 
-I'm passionate about building scalable machine learning systems that solve real-world problems. Currently working at **MrPrint World** as a Backend Engineer & DevOps Intern, with hands-on experience deploying AI/ML models in production environments.
-
+I'm passionate about building scalable machine learning systems that solve real-world problems. 
 ---
 
 ## 🚀 What I'm Currently Working On
