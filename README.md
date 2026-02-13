@@ -8,7 +8,6 @@ I'm passionate about building scalable machine learning systems that solve real-
 ## 🚀 What I'm Currently Working On
 
 - **RAG-Powered AI Assistant**: Building intelligent document processing systems with LangChain, OpenAI, and vector databases
-- **Full-Stack E-Commerce Platform**: Deploying production systems on AWS with containerization and CI/CD pipelines
 - **MLOps & Deployment**: Scaling AI models from research to production with monitoring and optimization
 - **Research Internship Applications**: Preparing for opportunities in AI research
 
