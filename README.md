@@ -11,7 +11,7 @@ I'm passionate about building scalable machine learning systems that solve real-
 - **RAG-Powered AI Assistant**: Building intelligent document processing systems with LangChain, OpenAI, and vector databases
 - **Full-Stack E-Commerce Platform**: Deploying production systems on AWS with containerization and CI/CD pipelines
 - **MLOps & Deployment**: Scaling AI models from research to production with monitoring and optimization
-- **Research Internship Applications**: Preparing for opportunities in AI research (OIST, Google Summer of Code)
+- **Research Internship Applications**: Preparing for opportunities in AI research
 
 ---
 
@@ -65,7 +65,7 @@ I'm passionate about building scalable machine learning systems that solve real-
 - 🔬 **Research Focus**: Advanced deep learning, NLP, MLOps
 - 🗣️ **Language Learning**: JLPT Japanese preparation
 - 📚 **Active Learner**: Continuous skill development in emerging tech
-- 🎮 **Hobbies**: Chess, Football analysis, Anime, Video games
+- 🎮 **Hobbies**: Chess, Football , Anime, Video games
 
 ---
 
@@ -75,11 +75,4 @@ I'm passionate about building scalable machine learning systems that solve real-
 🐙 **GitHub**: [@Tsukishima003](https://github.com/Tsukishima003)
 
 ---
-
-## ⚡ Fun Fact
-
-*Building production AI systems that actually work in the real world, not just in Jupyter notebooks!*
-
----
-
 **Open to**: Research internships, AI/ML engineering roles, collaboration on impactful projects
