@@ -5,7 +5,7 @@
 I'm passionate about building scalable machine learning systems that solve real-world problems. 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
 - **RAG-Powered AI Assistant**: Building intelligent document processing systems with LangChain, OpenAI, and vector databases
 - **MLOps & Deployment**: Scaling AI models from research to production with monitoring and optimization
@@ -13,7 +13,7 @@ I'm passionate about building scalable machine learning systems that solve real-
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,32 +39,32 @@ I'm passionate about building scalable machine learning systems that solve real-
 
 ## 📊 Key Projects
 
-### **RAG-Powered AI Assistant** 🤖
+### **RAG-Powered AI Assistant**
 - Processes 200MB+ PDFs with 92% retrieval accuracy
 - Sub-100ms latency for production queries
 - Serving 500+ daily queries in production
 - Stack: LangChain, OpenAI API, Pinecone/Weaviate, Python
 
-### **AI-Powered Workflow Automation** ⚙️
+### **AI-Powered Workflow Automation**
 - n8n-based automation workflows
 - Email classification and triage systems
 - API integrations and data pipeline orchestration
 
 ---
 
-## 🎓 Learning & Growth
+## Learning & Growth
 
-- 🔬 **Research Focus**: Advanced deep learning, NLP, MLOps
-- 🗣️ **Language Learning**: JLPT Japanese preparation
-- 📚 **Active Learner**: Continuous skill development in emerging tech
-- 🎮 **Hobbies**: Chess, Football , Anime, Video games
+-  **Research Focus**: Advanced deep learning, NLP, MLOps
+-  **Language Learning**: JLPT Japanese preparation
+-  **Active Learner**: Continuous skill development in emerging tech
+-  **Hobbies**: Chess, Football , Anime, Video games
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-📧 **Email**: himanshuambagade473@gmail.com
-🐙 **GitHub**: [@Tsukishima003](https://github.com/Tsukishima003)
+ **Email**: himanshuambagade473@gmail.com
+ **GitHub**: [@Tsukishima003](https://github.com/Tsukishima003)
 
 ---
 **Open to**: Research internships, AI/ML engineering roles, collaboration on impactful projects
