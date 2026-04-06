@@ -37,7 +37,7 @@ I'm passionate about building scalable machine learning systems that solve real-
 
 ---
 
-## 📊 Key Projects
+##  Key Projects
 
 ### **RAG-Powered AI Assistant**
 - Processes 200MB+ PDFs with 92% retrieval accuracy
